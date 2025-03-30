@@ -21,4 +21,4 @@ VALUES
     
 SELECT * 
 FROM TestMultipleZero
-WHERE A + B + C + D != 0
+WHERE A + B + C + D != 0;

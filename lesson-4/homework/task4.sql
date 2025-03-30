@@ -1,6 +1,6 @@
 -- ## Task 4
 -- - Order letters but 'b' must be first/last
--- - Order letters but 'b' must be 3rd (Optional)
+-- - Order letters but 'b' must be 3rd (Optional):
 
 create table letters
 (letter char(1));

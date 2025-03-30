@@ -1,5 +1,5 @@
 -- ## Task 3
---Write a query which will find the Date of Birth of employees whose birthdays lies between May 7 and May 15.
+--Write a query which will find the Date of Birth of employees whose birthdays lies between May 7 and May 15:
 
 CREATE TABLE EmpBirth
 (   EmpId INT  IDENTITY(1,1) 

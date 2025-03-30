@@ -1,5 +1,5 @@
 -- ## Task 2
--- Write a query which will find maximum value from multiple columns of the table.
+-- Write a query which will find maximum value from multiple columns of the table
 
 CREATE TABLE TestMax
 (
