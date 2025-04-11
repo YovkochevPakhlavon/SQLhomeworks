@@ -27,7 +27,7 @@ DECLARE @N int = 10;
 ;WITH FactorialCTE AS (
     SELECT 1 as Num, 1 AS Factorial
     UNION ALL
-    SELECT Num+1, (NUm+1) * Factorial FROM FactorialCTE
+    SELECT Num+1, (Num+1) * Factorial FROM FactorialCTE
     WHERE Num + 1 <= @N
 )
 SELECT * FROM FactorialCTE
